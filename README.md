@@ -1,7 +1,7 @@
 # sentiment-analysis
 the project can be used to predict the sentiment of the reviews that is positive or negative.
 
-DATASET LINK :<alt href="https://drive.google.com/file/d/1RSyc7khEw2lOX2yg5j-iZFyOxSy8wbse/view">CLICK HERE</a>
+DATASET LINK :[CLICK HERE](https://drive.google.com/file/d/1RSyc7khEw2lOX2yg5j-iZFyOxSy8wbse/view)
 
     there are 4 files 
         1. sentiment analysis.py dataset is raw and downloaded from the internet but as the size of the dataset is large i am
